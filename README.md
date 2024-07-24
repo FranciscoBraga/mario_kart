@@ -1,9 +1,9 @@
-<h1> Mario Kart.JS</h1>
+<h1> Mario Kart.JS em desenvolvimento 🏗️</h1>
 
   <table>
         <tr>
             <td>
-                <img src="./docs/header.gif" alt="Mario Kart" width="200">
+                <img src="https://github.com/FranciscoBraga/mario_kart/blob/main/03_mario_kart/docs/header.gif" alt="Mario Kart" width="200">
             </td>
             <td>
                 <b>Objetivo:</b>
@@ -127,7 +127,7 @@
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Vence quem chegar primeiro</label>
 
-<b>Crédito/b>
+<b>Crédito</b>
 
 <label for="link">Projeto inicial da DIO professor Felipe Aguiar: <https://github.com/felipeAguiarCode></label>
 
