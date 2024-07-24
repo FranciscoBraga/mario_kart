@@ -55,7 +55,7 @@
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Luigi</p>
-                <img src="./docs/luigi.gif" alt="Mario Kart" width="60" height="60">
+                <img src="https://github.com/FranciscoBraga/mario_kart/blob/main/03_mario_kart/docs/luigi.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
