@@ -126,3 +126,7 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Vence quem chegar primeiro</label>
+
+<b>Crédito/b>
+<label for="link">Projeto inicial da DIO professor Felipe Aguiar<</label>
+(https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart)
